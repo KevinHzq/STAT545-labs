@@ -6,6 +6,8 @@ Here is the URL to the __STAT 545 homepage__ repo:
 
 Here is its corresponding _Organization_ account:
 
+(https://github.com/stat545-ubc
+
 Here is the URL to my participation repo:
 
 https://github.com/KevinHzq/STAT545-participation/edit/
