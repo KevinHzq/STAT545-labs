@@ -8,4 +8,8 @@ Here is its corresponding _Organization_ account:
 
 Here is the URL to my participation repo:
 
+https://github.com/KevinHzq/STAT545-participation/edit/
+
 and its user account:
+
+https://github.com/KevinHzq/
